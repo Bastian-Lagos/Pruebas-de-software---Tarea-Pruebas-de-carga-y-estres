@@ -2,6 +2,13 @@
 
 Sistema de gestión de juegos con pruebas de carga y estrés usando **Grafana k6**.
 
+## Autores
+Billy Martinez ─ Bastian Lagos
+
+Asignatura: ICC735-1 Pruebas de software
+
+Tarea: Implementación de pruebas de Carga y Estrés sobre un Sistema de Gestión de Juegos
+
 ## Arquitectura
 
 ```
